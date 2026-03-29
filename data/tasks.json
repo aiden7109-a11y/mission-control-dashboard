@@ -334,6 +334,20 @@
       ],
       "subtasks": [],
       "createdAt": "2026-03-29T11:03:09.187Z"
+    },
+    {
+      "id": "task_1774788481144",
+      "title": "test",
+      "description": "auction",
+      "status": "scheduled",
+      "scheduledAt": "2026-03-30T03:47:00.000Z",
+      "priority": "high",
+      "project": "system",
+      "tags": [
+        "scheduled"
+      ],
+      "subtasks": [],
+      "createdAt": "2026-03-29T12:48:01.144Z"
     }
   ],
   "projects": [
