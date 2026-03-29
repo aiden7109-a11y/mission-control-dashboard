@@ -311,10 +311,10 @@
       "id": "task_1774782143539",
       "title": "Mission Control test",
       "description": "정진이 테스트",
-      "status": "scheduled",
+      "status": "backlog",
       "scheduledAt": "2026-03-30T02:01:00.000Z",
       "priority": "high",
-      "project": "system",
+      "project": "",
       "tags": [
         "scheduled"
       ],
@@ -350,5 +350,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-29T10:56:15.730Z"
+  "lastUpdated": "2026-03-29T11:02:30.407Z"
 }
