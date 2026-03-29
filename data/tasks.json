@@ -325,10 +325,10 @@
       "id": "task_1774782189187",
       "title": "Mission Control test",
       "description": "ㅇㄹㄴㅇㄹㄴㅇㄹㄴㅇㄹㄴㅇㄹ",
-      "status": "scheduled",
+      "status": "in_progress",
       "scheduledAt": "2026-03-30T02:03:00.000Z",
       "priority": "high",
-      "project": "system",
+      "project": "",
       "tags": [
         "scheduled"
       ],
@@ -364,5 +364,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-29T11:02:30.407Z"
+  "lastUpdated": "2026-03-29T11:03:18.683Z"
 }
