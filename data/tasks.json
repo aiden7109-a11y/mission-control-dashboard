@@ -283,7 +283,7 @@
       "id": "task_1774781391324",
       "title": "쇼피옥션 기획",
       "description": "프론트UX,확률구조",
-      "status": "backlog",
+      "status": "in_progress",
       "scheduledAt": "2026-03-30T01:49:00.000Z",
       "priority": "medium",
       "project": "",
@@ -322,5 +322,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-29T10:50:00.360Z"
+  "lastUpdated": "2026-03-29T10:50:10.116Z"
 }
