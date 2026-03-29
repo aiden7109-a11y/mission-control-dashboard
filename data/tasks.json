@@ -353,10 +353,10 @@
       "id": "task_1774788901950",
       "title": "test auction shopping",
       "description": "tion shopping",
-      "status": "scheduled",
+      "status": "backlog",
       "scheduledAt": "2026-03-30T03:54:00.000Z",
       "priority": "high",
-      "project": "system",
+      "project": "",
       "tags": [
         "scheduled"
       ],
@@ -392,5 +392,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-03-29T12:56:05.293Z"
+  "lastUpdated": "2026-03-29T13:28:27.595Z"
 }
